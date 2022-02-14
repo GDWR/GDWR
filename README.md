@@ -2,6 +2,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GDWR&show_icons=true&theme=gruvbox">
   
   <div align="left">
-    <img src="https://github.com/GDWR/GDWR/blob/main/profile-3d-contrib/profile-night-green.svg" width="33%">
+    <img src="https://github.com/GDWR/GDWR/blob/main/profile-3d-contrib/profile-night-green.svg" width="50%">
   </div>
 </div>
